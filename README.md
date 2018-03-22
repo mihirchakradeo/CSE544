@@ -5,5 +5,5 @@
 ---
 
 #### HW3
-> Program to plot the Empirical CDF for a given sample data
-> Program to plot 95% Confidence Intervals (CI) and DKW based CI lines for the Empirical CDF
+1. Program to plot the Empirical CDF for a given sample data
+2. Program to plot 95% Confidence Intervals (CI) and DKW based CI lines for the Empirical CDF
